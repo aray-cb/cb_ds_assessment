@@ -42,7 +42,7 @@ Each row represents a student's SAT section score (Math or Reading & Writing) al
 ## Notes
 
 * You are welcome to use your preferred IDE or development environment.
-* If you prefer working in notebooks, feel free to convert the exercises to a `.ipynb` file.
+* If you prefer working in notebooks, feel free to convert the exercises to a `.ipynb` file. However, please ensure that your final solutions to the problems are inside one cell or easy to copy/paste.
 * Please ensure your final solutions are complete and easy to follow.
 
 ---
