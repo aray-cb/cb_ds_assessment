@@ -1,7 +1,1 @@
-sample_text = """Python is a high-level programming language. 
-It is widely used in web development, data science, and artificial intelligence. 
-Python's syntax is clear and easy to learn. 
-Many developers prefer Python for its readability and flexibility. 
-Python can be used for scripting, automation, and software development. 
-The python community is large and active, contributing to a rich ecosystem of 
-libraries and frameworks…."""
+sample_text = """Python is a high-level programming language. It is widely used in web development, data science, and artificial intelligence. Python's syntax is clear and easy to learn. Many developers prefer Python for its readability and flexibility. Python can be used for scripting, automation, and software development. The python community is large and active, contributing to a rich ecosystem of libraries and frameworks…."""
